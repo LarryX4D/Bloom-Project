@@ -3,7 +3,7 @@ if game.CoreGui:FindFirstChild("SysBroker") then
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Bloom Project",Text = "GUI Already loaded, rejoin to re-execute",Duration = 5;})
 	return
 end
-local version = 1
+local version = 2
 --VARIABLES
 _G.AntiFlingToggled = false
 local Players = game:GetService("Players")
