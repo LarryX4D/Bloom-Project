@@ -10,7 +10,7 @@ local PushTool = nil
 local BrokenVip = {}
 local BrokenPremium = {}
 local BrokenPuppeter = {}
-local BrokenStaff = {"itzvampxx",}
+local BrokenStaff = {"BEzNawO6",}
 
 -- ASSETS
 
